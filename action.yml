@@ -1,4 +1,4 @@
-name: 'Auto Release Milestone'
+name: 'Auto Release Milestone (Test)'
 description: 'Drafts a GitHub release based on a newly closed milestone.'
 author: 'Tsuyoshi Miyake'
 inputs:
@@ -15,4 +15,4 @@ runs:
     - ${{ inputs.repo-token }}
 branding:
   color: green
-  icon: smile
+  icon: arrow-right

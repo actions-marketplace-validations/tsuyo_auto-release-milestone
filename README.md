@@ -1,4 +1,4 @@
-# Auto Release Milestone (Test)
+# Auto Release Milestone
 
 A GitHub action that automatically drafts a GitHub release based on a newly closed milestone.
 
